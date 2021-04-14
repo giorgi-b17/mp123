@@ -1,0 +1,36 @@
+.line{
+    margin-top: 50px;
+    margin-left: 620px;
+  width: 2px;
+  height: 430px;
+  background-color: black;
+}
+.linetwo{
+    margin-top: -430px;
+    margin-left: 740px;
+  width: 2px;
+  height: 430px;
+  background-color: black;
+}
+.linee{
+    margin-left: 470px;
+    margin-top: -285px;
+    width: 430px;
+    height: 2px;
+    background-color: black;
+}
+.lineee{
+    margin-left: 470px;
+    margin-top: 110px;
+    width: 430px;
+    height: 2px;
+    background-color: black;}
+    .mp{margin-top: -270px;
+      float: inline-start;
+      margin-left: 20px;
+      border: 2px solid black;
+      width: 400px;
+    }
+    body{
+      background-color: rgb(241, 241, 241);
+    }
